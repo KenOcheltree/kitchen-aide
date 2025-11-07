@@ -1,6 +1,6 @@
 # My Recipes
 
 ## Pizza
-### Ingridients
-
+### Ingredients
+**Item:** 
 ### Steps
