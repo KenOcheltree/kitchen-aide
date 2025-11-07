@@ -1,16 +1,16 @@
 # Freezer Contents
 ## Food Item
-**Item** Eggs
-**Expiration Date** None
+**item** Eggs
+**expiration Date** None
 ## Food Item
-**Item** Milk
-**Expiration Date** None
+**item** Milk
+**expiration Date** None
 ## Food Item
-**Item** Bacon
-**Expiration Date** None
+**item** Bacon
+**expiration Date** None
 ## Food Item
-**Item** Carrots
-**Expiration Date** None
+**item** Carrots
+**expiration Date** None
 ## Food Item
-**Item** Mozzarella Cheese
-**Expiration Date** None
+**item** Mozzarella Cheese
+**expiration Date** None
