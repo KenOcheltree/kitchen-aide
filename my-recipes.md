@@ -19,17 +19,12 @@
 3. Stir in spinach and cream until combined.
 4. Season and serve warm.
 
----
-title: "Neapolitan Margherita Pizza"
-servings: 2 (two 10–12\" pies)
-time:
-  prep: 20
-  rise: 8-24 hours
-  cook: 90-120 seconds
-tags: ["Italian", "pizza", "Neapolitan", "wood-fired"]
----
 
 ## Neapolitan Margherita Pizza
+
+**Servings:** 2 (two 10–12\" pies)
+**Total Time: 9 hours
+**Tags:** Italian, Pizza", Neapolitan, DInner
 
 ### Ingredients
 
@@ -38,11 +33,9 @@ tags: ["Italian", "pizza", "Neapolitan", "wood-fired"]
 - 195 g water (65% hydration)
 - 6 g salt
 - 0.2–1 g fresh yeast (or 1/8 tsp active dry yeast)
-
 #### Sauce
 - 200 g canned San Marzano tomatoes (crushed by hand)
 - Pinch of salt
-
 #### Toppings
 - 150 g fresh mozzarella (fior di latte or bufala), torn into pieces
 - Fresh basil leaves
