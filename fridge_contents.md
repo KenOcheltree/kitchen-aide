@@ -31,3 +31,11 @@
 # Food Item
 **item** Onions
 **expiration date** None
+
+## Food Item
+**Item** Smoked Salmon
+**Expiration Date** None
+
+## Food Item
+**Item** Parmesen Cheese
+**Expiration Date** None
