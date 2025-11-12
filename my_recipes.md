@@ -22,8 +22,8 @@
 
 ## Neapolitan Margherita Pizza
 
-**Servings:** 2 (two 10–12\" pies)
-**Total Time: 9 hours
+**Servings:** 2
+**Total Time:** 9 hours
 **Tags:** Italian, Pizza", Neapolitan, DInner
 
 ### Ingredients
@@ -50,3 +50,22 @@
 6. **Shape**: Press dough into rounds — stretch by hand, don’t use a rolling pin.
 7. **Assemble**: Spread tomatoes lightly, add mozzarella, basil, and a drizzle of olive oil.
 8. **Bake**: Cook 90–120 seconds, rotating frequently until cornicione is blistered.
+
+
+## Alfredo Farfalle with Smoked Salmon
+
+**Servings:** 6  
+**Total Time:** 20 minutes  
+**Tags:** Italian, Dinner, Quick
+
+### Ingredients
+- 12 oz Farfalle Pasta
+- 12 oz Alfrado Sauce
+- 6 oz Smoked Salmon sliced
+- 2 Tbsp Parmesan Cheese
+
+### Instructions
+1. Cook pasta until al dente
+2. Place in oven safe dish and miz with alfrado sauce.
+3. Break smoked salmon into inch sized pieces and scatter on the top.
+4. Prinkle with parmesan cheese and broil in the oven for 3 minutes.

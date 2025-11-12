@@ -27,3 +27,23 @@
 ## Food Item
 **Item** Pasta Sauce
 **Expiration Date** None**
+
+## Food Item
+**Item** Farfalle Pasta
+**Expiration Date** None**
+
+## Food Item
+**Item** Alfrado Sauce
+**Expiration Date** None**
+
+## Food Item
+**Item** Curry Spice
+**Expiration Date** None**
+
+## Food Item
+**Item** Wild Rice
+**Expiration Date** None**
+
+## Food Item
+**Item** White Rice
+**Expiration Date** None**
