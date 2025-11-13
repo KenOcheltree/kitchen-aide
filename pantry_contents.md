@@ -1,7 +1,7 @@
 # Pantry Contents
 
 ## Food Item
-**Item** Flour
+**Item** All Purpose Flour
 **Expiration Date** None
 
 ## Food Item
@@ -46,4 +46,20 @@
 
 ## Food Item
 **Item** White Rice
+**Expiration Date** None**
+
+## Food Item
+**Item** Nutmeg
+**Expiration Date** None**
+
+## Food Item
+**Item** Chicken Bouillon Cubes
+**Expiration Date** None**
+
+## Food Item
+**Item** Risoni Pasta
+**Expiration Date** None**
+
+## Food Item
+**Item** Sugar
 **Expiration Date** None**
